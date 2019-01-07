@@ -6,6 +6,7 @@ Please add new entries in alphabetical order. First by developer, then by name. 
 ## Instruments
 Developer | Name | Description | Homepage |
 | ------ | ------ | ------ | ------ |
+| bsp2 | VeeSeeVSTRack | Adaption of VCV Rack for the VST 2.4 format | [Homepage](https://github.com/bsp2/VeeSeeVSTRack) |
 | Calf studio gear | Calf suite | (LV2 only) Organ, Monosynth, Fluidsynth and a experimental wavetable synth | [Homepage](http://calf-studio-gear.org/) |
 | Matt Tytel | Helm | Polyphonic synthesizer | [Homepage](https://tytel.org/helm/) |
 
