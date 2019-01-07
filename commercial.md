@@ -15,6 +15,6 @@ Developer | Name | Description | Homepage |
 | u-he | Filterscape | Dynamic filtering | [Homepage](https://www.u-he.com) |
 | u-he | MFM2 | Delay effect | [Homepage](https://www.u-he.com) |
 | u-he | Presswerk | Dynamics processor | [Homepage](https://www.u-he.com) |
-| u-he | Satin | Tape simularion | [Homepage](https://www.u-he.com) |
+| u-he | Satin | Tape simulation | [Homepage](https://www.u-he.com) |
 | u-he | Uhbik | collection of nine sophisticated studio effects | [Homepage](https://www.u-he.com) |
 
