@@ -8,9 +8,9 @@ Developer | Name | Description | Homepage |
 | ------ | ------ | ------ | ------ |
 | Matt Tytel | Helm | Polyphonic synthesizer | [Homepage](https://tytel.org/helm/) |
 
-<!--(
 ## Effects
 Developer | Name | Description | Homepage |
 | ------ | ------ | ------ | ------ |
-| Developer | Name | Description | [Homepage](https://www.link.com) |
-)--> 
+| mucoder | hypercyclic | LFO-driven MIDI arpeggiator, gate effect and step sequencer | [Homepage](http://www.mucoder.net/en/hypercyclic/) |
+| mucoder | tonespace | chord generator and visualizer | [Homepage](http://www.mucoder.net/en/tonespace/) |
+
