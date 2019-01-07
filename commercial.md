@@ -1,7 +1,12 @@
+<!--(
+Please add new entries in alphabetical order. First by developer, then by name. Template for new entries:
+| Developer | Name | Description | [Homepage](https://www.link.com) |
+)--> 
 # Commercial Linux VSTs
 ## Instruments
 Developer | Name | Description | Homepage |
 | ------ | ------ | ------ | ------ |
+| Ilformed | Glitch2 | Glitch plugin and sequencer | [Homepage](http://illformed.com/glitch/) |
 | u-he | ACE | Modular Synthesizer | [Homepage](https://www.u-he.com) |
 | u-he | Bazille | Modular Synthesizer | [Homepage](https://www.u-he.com) |
 | u-he | Diva | Virtual Analog Synthesizer | [Homepage](https://www.u-he.com) |
