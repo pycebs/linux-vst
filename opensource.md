@@ -6,11 +6,13 @@ Please add new entries in alphabetical order. First by developer, then by name. 
 ## Instruments
 Developer | Name | Description | Homepage |
 | ------ | ------ | ------ | ------ |
+| Calf studio gear | Calf suite | Organ, Monosynth, Fluidsynth and a experimental wavetable synth | [Homepage](http://calf-studio-gear.org/) |
 | Matt Tytel | Helm | Polyphonic synthesizer | [Homepage](https://tytel.org/helm/) |
 
 ## Effects
 Developer | Name | Description | Homepage |
 | ------ | ------ | ------ | ------ |
+| Calf studio gear | Calf suite | Numerous modulation, delay, dynamics and filter effects | [Homepage](http://calf-studio-gear.org/) |
 | mucoder | hypercyclic | LFO-driven MIDI arpeggiator, gate effect and step sequencer | [Homepage](http://www.mucoder.net/en/hypercyclic/) |
 | mucoder | tonespace | chord generator and visualizer | [Homepage](http://www.mucoder.net/en/tonespace/) |
 
